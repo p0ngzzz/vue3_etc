@@ -6,6 +6,7 @@
     <router-link to="/crud">CRUD</router-link>
     <router-link to="/qrPayment">qrPayment</router-link>
     <h1>Pongsatorn Tassaro</h1>
+    <h1>Nae and Nut </h1>
   </nav>
   <router-view/>
 </template>
