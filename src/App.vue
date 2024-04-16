@@ -3,6 +3,7 @@
     <router-link to="/">Vue3 Project</router-link> |
     <router-link to="/about">about</router-link> |
     <h1>OHAYOOOO</h1>
+    <h1>Nathawadee Hnakna</h1>
   </nav>
   <router-view/>
 </template>
