@@ -11,6 +11,7 @@
     <h1>Nathawadee Hnaknan</h1>
 
     <h1>cogratulation!!!</h1>
+    <h1>cogratulation 2nd time!!!</h1>
   </nav>
   <router-view/>
 </template>
