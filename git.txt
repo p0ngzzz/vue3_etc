@@ -1,0 +1,5 @@
+How to use Git
+#set config git
+1. git config --global user.name "my git name" => git config --global user.name "Nae Pongsatorn" 
+2. git config --global user.email myEmail => git config --global user.email pongsatornnea@gmail.com 
+3. git config --global core.editor "code --wait"
