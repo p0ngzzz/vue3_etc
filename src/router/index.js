@@ -29,7 +29,7 @@ const routes = [
     component: CrudView
   },
   {
-    path: '/axios_test',
+    path: '/axiosTest',
     name: 'AxiosView',
     component: AxiosView
   },

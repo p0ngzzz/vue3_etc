@@ -2,8 +2,9 @@
   <nav>
     <router-link to="/">Vue3 Project</router-link> |
     <router-link to="/about">About</router-link>
+    <router-link to="/axiosTest">axiosTest</router-link>
     <router-link to="/crud">CRUD</router-link>
-    <router-link to="/crud">qrPayment</router-link>
+    <router-link to="/qrPayment">qrPayment</router-link>
   </nav>
   <router-view/>
 </template>
