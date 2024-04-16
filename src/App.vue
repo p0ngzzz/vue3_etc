@@ -7,7 +7,11 @@
     <router-link to="/qrPayment">qrPayment</router-link>
 
     <h1>Pongsatorn Tassaro</h1>
+    <h1>Nae and Nut </h1>
+    <h1>OHAYOOOO</h1>
     <h1>Nathawadee Hnaknan</h1>
+
+    <h1>cogratulation!!!</h1>
   </nav>
   <router-view/>
 </template>
