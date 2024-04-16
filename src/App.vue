@@ -5,6 +5,7 @@
     <router-link to="/axiosTest">axiosTest</router-link>
     <router-link to="/crud">CRUD</router-link>
     <router-link to="/qrPayment">qrPayment</router-link>
+    <router-link to="/basketOrder">basketOrder</router-link>
   </nav>
   <router-view/>
 </template>

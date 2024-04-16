@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import QrPayment from '../views/QrPaymentView.vue'
 import CrudView from '../views/CrudView.vue'
 import AxiosView from '../views/AxiosView.vue'
+import BasketOrder from '../views/basketOrderView.vue'
 
 const routes = [
   {
@@ -33,6 +34,12 @@ const routes = [
     name: 'AxiosView',
     component: AxiosView
   },
+  {
+    path: '/basketOrder',
+    name: 'BasketOrder',
+    component: BasketOrder
+  },
+  
   
 ]
 
